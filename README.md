@@ -1,4 +1,4 @@
 # Getting Started with Create React App
 
-## This project not finish yet.
+## This project is not finished yet.
 
